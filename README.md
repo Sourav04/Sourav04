@@ -1,7 +1,7 @@
 # Hi there, I'm Sourav Kumar! 👋
 
 ## 🚀 About Me
-I am a **DevOps & Cloud Engineer** with **12 years of experience** in automation, infrastructure, and platform engineering. I specialize in **AWS, Kubernetes, Terraform, and CI/CD**, helping teams build scalable and secure cloud solutions. Passionate about DevOps culture, I enjoy sharing knowledge, automating workflows, and optimizing cloud infrastructure.
+I am a **DevOps & Cloud Platform Engineer** with **12 years of experience** in automation, infrastructure, and platform engineering. I specialize in **AWS, Kubernetes, Terraform, and CI/CD**, helping teams build scalable and secure cloud solutions. Passionate about DevOps culture, I enjoy sharing knowledge, automating workflows, and optimizing cloud infrastructure.
 
 ## 🔧 Tech Stack & Skills
 - **Cloud Platforms:** AWS (EKS, EC2, VPC, IAM, CloudFront, RDS, S3), Azure (AKS)
@@ -27,7 +27,7 @@ I am a **DevOps & Cloud Engineer** with **12 years of experience** in automation
 - **Description:** Deployed an end-to-end observability stack for real-time monitoring and alerting.
 
 ## 🎯 Social Cause
-Beyond cloud and DevOps, I am passionate about **STEM education and mentorship**. I actively contribute to open-source projects and mentor aspiring engineers to help them grow in the DevOps field.
+Beyond cloud and DevOps, I am passionate about providing education to underprivileged children. I strongly believe that technology and knowledge should be accessible to all, and I actively support initiatives that promote digital literacy, mentorship, and access to learning resources for children in underserved communities. Education is the foundation for a better future, and I aim to contribute by sharing knowledge and supporting tech-driven learning programs.
 
 ## 📫 Let's Connect!
 - **GitHub:** [github.com/souravkumar](#)
