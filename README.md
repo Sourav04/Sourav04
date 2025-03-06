@@ -7,11 +7,12 @@ I am a **DevOps & Cloud Platform Engineer** with **12 years of experience** in a
 - **Cloud Platforms:** AWS (EKS, EC2, VPC, IAM, CloudFront, RDS, S3), Azure (AKS)
 - **Infrastructure as Code:** Terraform, CloudFormation, Crossplane
 - **Container Orchestration:** Kubernetes, Helm, Docker
-- **CI/CD & Automation:** GitHub Actions, ArgoCD, FluxCD, Jenkins
+- **CI/CD & Automation:** GitHub Actions, ArgoCD, FluxCD, Jenkins, Argo rollout
 - **Monitoring & Observability:** Prometheus, Grafana, ELK, OpenTelemetry
 - **Security & Compliance:** IAM, Secrets Management, Vulnerability Scanning
 - **Scripting & Programming:** Python, Bash, Go
 - **Networking & Linux:** DNS, Load Balancing, Firewalls, Linux Administration
+- **Workflow Orchestration:** Argo workflows, Temporal
 
 ## 🔥 Featured Projects
 ### [🌟 Automated AWS EKS Deployment/ Node Pool Recycler](#)
