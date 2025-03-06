@@ -22,11 +22,12 @@ I am a **DevOps & Cloud Platform Engineer** with **12 years of experience** in a
 ### [Automated remediation solution for common Kubernetes issues using AWS Lambda](#)
 - **Tech Stack:** EKS, Eventbridge, Lambda
 - **Description:** provides an automated remediation solution for common Kubernetes issues using AWS Lambda.
-- **Rep0:** https://github.com/Sourav04/eks_autofix_common_issues 
+- **Repo:** https://github.com/Sourav04/eks_autofix_common_issues 
 
 ### [📊 Kubernetes Observability Stack](#)
 - **Tech Stack:** Prometheus, Grafana, Loki, Kubernetes
 - **Description:** Deployed an end-to-end observability stack for real-time monitoring and alerting.
+- **Repo:** https://github.com/Sourav04/k8s_monitoring_stack/tree/main
 
 ## 🎯 Social Cause
 Beyond cloud and DevOps, I am passionate about providing education to underprivileged children. I strongly believe that technology and knowledge should be accessible to all, and I actively support initiatives that promote digital literacy, mentorship, and access to learning resources for children in underserved communities. Education is the foundation for a better future, and I aim to contribute by sharing knowledge and supporting tech-driven learning programs.
