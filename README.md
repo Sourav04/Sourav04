@@ -15,12 +15,14 @@ I am a **DevOps & Cloud Platform Engineer** with **12 years of experience** in a
 
 ## 🔥 Featured Projects
 ### [🌟 Automated AWS EKS Deployment/ Node Pool Recycler](#)
-- **Tech Stack:** Terraform, Kubernetes, Helm, ArgoCD, AWS EKS
+- **Tech Stack:** Terraform,AWS EKS, Lambda, Eventbridge
 - **Description:** Infrastructure-as-Code setup for EKS clusters with automated CI/CD deployment.
+- **Repo:** https://github.com/Sourav04/eks_node_pool_image_updater
 
-### [🔐 Secure CI/CD Pipeline](#)
-- **Tech Stack:** GitHub Actions, AWS Secrets Manager, Terraform
-- **Description:** Implemented a security-first CI/CD pipeline with automated vulnerability scanning.
+### [🔐 Automated remediation solution for common Kubernetes issues using AWS Lambda](#)
+- **Tech Stack:** EKS, Eventbridge, Lambda
+- **Description:** provides an automated remediation solution for common Kubernetes issues using AWS Lambda.
+- **Rep0:** https://github.com/Sourav04/eks_autofix_common_issues 
 
 ### [📊 Kubernetes Observability Stack](#)
 - **Tech Stack:** Prometheus, Grafana, Loki, Kubernetes
@@ -32,6 +34,6 @@ Beyond cloud and DevOps, I am passionate about providing education to underprivi
 ## 📫 Let's Connect!
 - **GitHub:** [github.com/souravkumar](#)
 - **LinkedIn:** [linkedin.com/in/sourav-kumar](#)
-- **Resume:** [](#)
+- **Resume:** [https://drive.google.com/file/d/1fWbJ-wivBU1aywzk2Jq7-yrjzjEKsoyM/view?usp=sharing](#)
 
 ✨ _Let's build scalable, secure, and efficient cloud solutions together!_ 🚀
