@@ -34,8 +34,8 @@ I am a **DevOps & Cloud Platform Engineer** with **12 years of experience** in a
 Beyond cloud and DevOps, I am passionate about providing education to underprivileged children. I strongly believe that technology and knowledge should be accessible to all, and I actively support initiatives that promote digital literacy, mentorship, and access to learning resources for children in underserved communities. Education is the foundation for a better future, and I aim to contribute by sharing knowledge and supporting tech-driven learning programs.
 
 ## 📫 Let's Connect!
-- **GitHub:** [github.com/souravkumar](#)
-- **LinkedIn:** [linkedin.com/in/sourav-kumar](#)
+- **GitHub:** [github.com/souravkumar](#github.com/sourav04)
+- **LinkedIn:** [[linkedin.com/in/sourav-kumar](https://www.linkedin.com/in/sourav-kumar04/)](#)
 - **Resume:** [Link](https://drive.google.com/file/d/1fWbJ-wivBU1aywzk2Jq7-yrjzjEKsoyM/view?usp=sharing)
 
 ✨ _Let's build scalable, secure, and efficient cloud solutions together!_ 🚀
