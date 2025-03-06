@@ -19,7 +19,7 @@ I am a **DevOps & Cloud Platform Engineer** with **12 years of experience** in a
 - **Description:** Infrastructure-as-Code setup for EKS clusters with automated CI/CD deployment.
 - **Repo:** https://github.com/Sourav04/eks_node_pool_image_updater
 
-### [🔐 Automated remediation solution for common Kubernetes issues using AWS Lambda](#)
+### [Automated remediation solution for common Kubernetes issues using AWS Lambda](#)
 - **Tech Stack:** EKS, Eventbridge, Lambda
 - **Description:** provides an automated remediation solution for common Kubernetes issues using AWS Lambda.
 - **Rep0:** https://github.com/Sourav04/eks_autofix_common_issues 
