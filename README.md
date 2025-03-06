@@ -34,6 +34,6 @@ Beyond cloud and DevOps, I am passionate about providing education to underprivi
 ## 📫 Let's Connect!
 - **GitHub:** [github.com/souravkumar](#)
 - **LinkedIn:** [linkedin.com/in/sourav-kumar](#)
-- **Resume:** [https://drive.google.com/file/d/1fWbJ-wivBU1aywzk2Jq7-yrjzjEKsoyM/view?usp=sharing](#)
+- **Resume:** [Link](https://drive.google.com/file/d/1fWbJ-wivBU1aywzk2Jq7-yrjzjEKsoyM/view?usp=sharing)
 
 ✨ _Let's build scalable, secure, and efficient cloud solutions together!_ 🚀
