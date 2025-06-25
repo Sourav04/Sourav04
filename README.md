@@ -15,6 +15,11 @@ I am a **DevOps & Cloud Platform Engineer** with **12 years of experience** in a
 - **Workflow Orchestration:** Argo workflows, Temporal
 
 ## 🔥 Featured Projects
+### [🌟 Kubernetes Demo Project - Complete CI/CD Pipeline](#)
+- **Tech Stack:** Terraform,AWS,Github actions, Helm, Argocd, Promethesus
+- **Description:** This project demonstrates a production-ready Kubernetes setup with a Python Flask application, automated infrastructure provisioning using Terraform, modern CI/CD with GitHub Actions and ArgoCD, and comprehensive monitoring.
+- **Repo:** https://github.com/Sourav04/demo_k8s_app_aws
+
 ### [🌟 Automated AWS EKS Deployment/ Node Pool Recycler](#)
 - **Tech Stack:** Terraform,AWS EKS, Lambda, Eventbridge
 - **Description:** Infrastructure-as-Code setup for EKS clusters with automated CI/CD deployment.
